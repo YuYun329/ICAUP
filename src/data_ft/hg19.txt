@@ -1,0 +1,1 @@
+the reference file hg19.fa can be accessed at https://genome.ucsc.edu/
